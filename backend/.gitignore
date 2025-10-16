@@ -1,0 +1,54 @@
+# Operating System files
+# ----------------------
+.DS_Store
+Thumbs.db
+._*
+
+# IDE & Editor directories
+# ------------------------
+.idea/
+.vscode/
+*.sublime-workspace
+*.sublime-project
+.project
+.classpath
+.settings/
+*.swp
+*~
+
+# Build artifacts and compiled output
+# -----------------------------------
+build/
+dist/
+out/
+target/
+bin/
+
+# Dependency directories
+# ----------------------
+node_modules/
+vendor/
+jspm_packages/
+bower_components/
+
+# Log files
+# ---------
+*.log
+logs/
+
+# Environment variables
+# It's recommended to commit a .env.example file instead
+# ------------------------------------------------------
+.env
+.env.local
+.env.*.local
+
+# Temporary files
+# ---------------
+*.tmp
+*.bak
+
+# Coverage reports
+# ----------------
+coverage/
+.coverage
